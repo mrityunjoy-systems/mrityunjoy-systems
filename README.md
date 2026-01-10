@@ -1,43 +1,17 @@
-# Hi, I’m Mrityunjoy Mukherjee 👋  
-Backend Software Engineer | WordPress • PHP • REST APIs
+## 🚀 Featured Projects
 
-I build **secure, scalable backend systems** with a strong focus on  
-**WordPress core, custom plugins, REST APIs, and performance**.  
-Interested in open-source, DevOps basics, and clean code practices.
+### 🔹 WP Basic Plugin
+A beginner WordPress plugin that displays an admin notice when activated.  
+👉 https://github.com/mrityunjoy-systems/wp-basic-plugin
 
----
+### 🔹 WP Custom REST API
+A WordPress plugin that creates a custom REST API endpoint.  
+👉 https://github.com/mrityunjoy-systems/wp-custom-rest-api
 
-## 🧠 Tech Stack
+### 🔹 PHP Simple API
+A pure PHP backend API that returns JSON responses.  
+👉 https://github.com/mrityunjoy-systems/php-simple-api
 
-- **Languages:** PHP, JavaScript (ES6)
-- **CMS:** WordPress (Core, Custom Plugins, Hooks, REST API)
-- **Backend:** REST APIs, Authentication, MySQL
-- **DevOps:** Linux, Docker (basic), GitHub Actions
-- **Tools:** Git, WP-CLI
-
----
-
-## 🚀 Featured Projects (Coming Soon)
-
-I’m actively working on backend-focused projects such as:
-
-- 🔹 Custom WordPress REST API Plugin  
-- 🔹 Role-based Authentication System (JWT)  
-- 🔹 Dockerized WordPress Development Setup  
-- 🔹 Secure Contact Form Plugin (No Page Builders)
-
-> Repositories will be updated regularly.
-
----
-
-## 📈 What I’m Improving Right Now
-
-- Advanced WordPress internals  
-- API security & performance  
-- Clean architecture & best practices  
-- Contributing to open-source
-
----
 
 ## 📫 Contact
 
