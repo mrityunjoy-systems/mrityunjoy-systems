@@ -1,4 +1,7 @@
 ## 🚀 Featured Projects
+🔹 WP Contact Form API  
+A WordPress plugin that accepts contact form data via REST API with validation.  
+👉 https://github.com/mrityunjoy-systems/wp-contact-form-api
 
 ### 🔹 WP Basic Plugin
 A beginner WordPress plugin that displays an admin notice when activated.  
